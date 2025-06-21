@@ -73,7 +73,7 @@ const Login = () => {
         <div className="form-switch">
           {signState === "Sign In" ? (
             <p>
-              New To Netflix?{" "}
+              New To VisionPlay?{" "}
               <span
                 onClick={() => {
                   setSignState("Sign Up");

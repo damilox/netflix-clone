@@ -27,7 +27,7 @@ const Footer = () => {
         <li>Corporate Information </li>
         <li>Contact Us </li>
       </ul>
-      <div className="copyright-text">@ 2025 Ajetomobi Damilola- Netflix Clone, Inc</div>
+      <div className="copyright-text">@ 2025 Ajetomobi Damilola- VisionPlay, Inc</div>
     </div>
   )
 }
